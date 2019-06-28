@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeFinder\\EmployeeFinder.csproj": {}
+  },
+  "projects": {
+    "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeDataAccess\\EmployeeDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeDataAccess\\EmployeeDataAccess.csproj",
+        "projectName": "EmployeeDataAccess",
+        "projectPath": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeDataAccess\\EmployeeDataAccess.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeFinder\\EmployeeFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeFinder\\EmployeeFinder.csproj",
+        "projectName": "EmployeeFinder",
+        "projectPath": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeFinder\\EmployeeFinder.csproj",
+        "packagesPath": "C:\\Users\\PR316744\\.nuget\\packages\\",
+        "outputPath": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeFinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PR316744\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeDataAccess\\EmployeeDataAccess.csproj": {
+                "projectPath": "E:\\TopGearProject\\EmployeeFinderAngular\\EmployeeFinder\\EmployeeDataAccess\\EmployeeDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

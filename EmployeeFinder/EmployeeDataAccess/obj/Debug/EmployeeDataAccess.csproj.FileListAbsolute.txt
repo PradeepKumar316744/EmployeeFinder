@@ -1,0 +1,7 @@
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+E:\TopGearProject\EmployeeFinderAngular\EmployeeFinder\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
